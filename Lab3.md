@@ -1,5 +1,5 @@
 # Grep Commands!
-## (found grep commands information on <a href="https://www.geeksforgeeks.org/grep-command-in-unixlinux/"> www.geeksforgeeks.org </a>)
+## (found grep commands information on <a href="https://www.geeksforgeeks.org/grep-command-in-unixlinux/"> https://www.geeksforgeeks.org/grep-command-in-unixlinux/ </a>)
 
 The grep command is one of the most useful commands in bash. What the grep command does is find 
 all the times the character of your choice is found in a .txt file. For example, in the ./technical directory used during last week's skill demo, 
